@@ -1,0 +1,333 @@
+
+[Selasa, 26 - 02 - 2019 | 11:19:43] name 'true' is not defined
+[Selasa, 26 - 02 - 2019 | 14:09:38] [Errno 0] Error
+[Selasa, 26 - 02 - 2019 | 14:09:38] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:38] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:38] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:38] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:38] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:38] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:38] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:53] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:53] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:53] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:53] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:53] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:53] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:09:54] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:01] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:02] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:02] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:02] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:02] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:02] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:02] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:02] Request-sent
+[Selasa, 26 - 02 - 2019 | 14:10:32] Request-sent
+[Selasa, 26 - 02 - 2019 | 15:06:39] [Errno 110] Connection timed out
+[Selasa, 26 - 02 - 2019 | 16:24:39] 'in <string>' requires string as left operand, not list
+[Senin, 08 - 04 - 2019 | 17:12:45] list index out of range
+[Senin, 08 - 04 - 2019 | 17:13:33] list index out of range
+[Senin, 08 - 04 - 2019 | 17:56:09] TalkException(code=73, reason='Prevented join by ticket: 1589656298, 793680890', parameterMap=None)
+[Senin, 08 - 04 - 2019 | 18:11:27] TalkException(code=10, reason='not a member', parameterMap={})
+[Senin, 08 - 04 - 2019 | 18:11:30] TalkException(code=10, reason='not a member', parameterMap={})
+[Senin, 08 - 04 - 2019 | 18:11:32] list index out of range
+[Senin, 08 - 04 - 2019 | 18:11:33] TalkException(code=73, reason='Prevented join by ticket: 1589656298, 849699969', parameterMap=None)
+[Senin, 08 - 04 - 2019 | 18:14:38] list index out of range
+[Senin, 08 - 04 - 2019 | 18:26:06] TalkException(code=73, reason='Prevented join by ticket: 1589656298, 856144377', parameterMap=None)
+[Senin, 08 - 04 - 2019 | 18:31:19] 'in <string>' requires string as left operand, not list
+[Senin, 08 - 04 - 2019 | 19:03:45] LiffException(code=3, message='user consent required', payload=LiffErrorPayload(consentRequired=LiffErrorConsentRequired(channelId='1643727178', consentUrl='https://access.line.me/dialog/allow?type=liff&channelId=1643727178&locale&scope=CM+P')))
+[Senin, 08 - 04 - 2019 | 21:07:23] TalkException(code=5, reason='Ticket not found: 7wsCwbXR1y', parameterMap=None)
+[Senin, 08 - 04 - 2019 | 21:08:51] TalkException(code=5, reason='Ticket not found: Htu14nglI5', parameterMap=None)
+[Senin, 08 - 04 - 2019 | 21:11:48] list index out of range
+[Senin, 08 - 04 - 2019 | 21:12:08] list index out of range
+[Senin, 08 - 04 - 2019 | 21:13:43] local variable 'txt' referenced before assignment
+[Senin, 08 - 04 - 2019 | 21:13:50] local variable 'txt' referenced before assignment
+[Senin, 08 - 04 - 2019 | 21:13:54] local variable 'txt' referenced before assignment
+[Senin, 08 - 04 - 2019 | 21:14:18] local variable 'txt' referenced before assignment
+[Senin, 08 - 04 - 2019 | 22:06:42] 'in <string>' requires string as left operand, not list
+[Senin, 08 - 04 - 2019 | 22:15:51] TalkException(code=10, reason='You are not related to group: cd474b49b1f02b5140c9c71bfaf05087c', parameterMap={'2': 'cd474b49b1f02b5140c9c71bfaf05087c'})
+[Senin, 08 - 04 - 2019 | 22:18:01] 'in <string>' requires string as left operand, not list
+[Senin, 08 - 04 - 2019 | 22:35:16] 'in <string>' requires string as left operand, not list
+[Senin, 08 - 04 - 2019 | 22:36:19] TalkException(code=10, reason='You are not related to group: cb7ce1ca6d056b99841f05884071be5e9', parameterMap={'2': 'cb7ce1ca6d056b99841f05884071be5e9'})
+[Senin, 08 - 04 - 2019 | 22:36:24] 'in <string>' requires string as left operand, not list
+[Senin, 08 - 04 - 2019 | 22:57:01] 'in <string>' requires string as left operand, not list
+[Senin, 08 - 04 - 2019 | 22:59:03] 'in <string>' requires string as left operand, not list
+[Senin, 08 - 04 - 2019 | 23:11:33] 'in <string>' requires string as left operand, not list
+[Senin, 08 - 04 - 2019 | 23:13:36] TalkException(code=10, reason='not a member', parameterMap={})
+[Senin, 08 - 04 - 2019 | 23:17:59] TalkException(code=10, reason='not a member', parameterMap={})
+[Selasa, 09 - 04 - 2019 | 00:21:39] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 03:15:06] list index out of range
+[Selasa, 09 - 04 - 2019 | 06:25:16] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 12:36:19] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 12:59:30] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 13:03:16] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 13:03:38] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Selasa, 09 - 04 - 2019 | 13:06:32] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 13:09:42] TalkException(code=99, reason='group key is not registered', parameterMap={})
+[Selasa, 09 - 04 - 2019 | 13:57:30] TalkException(code=10, reason='You are not related to group: cb4d58738201c4e575e16a44e34d1f0c2', parameterMap={'2': 'cb4d58738201c4e575e16a44e34d1f0c2'})
+[Selasa, 09 - 04 - 2019 | 14:00:24] TalkException(code=10, reason='You are not related to group: cb4d58738201c4e575e16a44e34d1f0c2', parameterMap={'2': 'cb4d58738201c4e575e16a44e34d1f0c2'})
+[Selasa, 09 - 04 - 2019 | 14:02:19] TalkException(code=10, reason='You are not related to group: cb4d58738201c4e575e16a44e34d1f0c2', parameterMap={'2': 'cb4d58738201c4e575e16a44e34d1f0c2'})
+[Selasa, 09 - 04 - 2019 | 14:02:36] 'Group' object has no attribute 'lower'
+[Selasa, 09 - 04 - 2019 | 15:39:49] local variable 'hasil' referenced before assignment
+[Selasa, 09 - 04 - 2019 | 15:47:11] list index out of range
+[Selasa, 09 - 04 - 2019 | 16:11:38] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 16:22:18] local variable 'hasil' referenced before assignment
+[Selasa, 09 - 04 - 2019 | 16:43:18] local variable 'hasil' referenced before assignment
+[Selasa, 09 - 04 - 2019 | 17:28:48] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 18:12:52] local variable 'hasil' referenced before assignment
+[Selasa, 09 - 04 - 2019 | 18:39:39] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 19:21:22] local variable 'a' referenced before assignment
+[Selasa, 09 - 04 - 2019 | 19:58:28] list index out of range
+[Selasa, 09 - 04 - 2019 | 20:03:13] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 20:50:24] local variable 'hasil' referenced before assignment
+[Selasa, 09 - 04 - 2019 | 21:32:45] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 21:51:31] 'in <string>' requires string as left operand, not list
+[Selasa, 09 - 04 - 2019 | 21:56:16] local variable 'hasil' referenced before assignment
+[Selasa, 09 - 04 - 2019 | 22:20:27] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 08:37:14] local variable 'hasil' referenced before assignment
+[Rabu, 10 - 04 - 2019 | 09:34:26] TalkException(code=10, reason='You are not related to group: c6857ca191553166d9ba126a008b0f1e4', parameterMap={'2': 'c6857ca191553166d9ba126a008b0f1e4'})
+[Rabu, 10 - 04 - 2019 | 09:34:31] local variable 'to' referenced before assignment
+[Rabu, 10 - 04 - 2019 | 09:35:35] TalkException(code=10, reason='You are not related to group: c6857ca191553166d9ba126a008b0f1e4', parameterMap={'2': 'c6857ca191553166d9ba126a008b0f1e4'})
+[Rabu, 10 - 04 - 2019 | 09:35:38] name 'xyz' is not defined
+[Rabu, 10 - 04 - 2019 | 12:45:35] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 12:46:58] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 12:53:43] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 12:54:43] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 12:56:13] local variable 'hasil' referenced before assignment
+[Rabu, 10 - 04 - 2019 | 13:01:17] 'MENTION'
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:47] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:48] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:49] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:49] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:49] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:49] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:49] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:49] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:49] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:49] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:19:49] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:22:08] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:23:10] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:24:13] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:24:13] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:24:13] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:24:13] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:24:13] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:24:13] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:24:13] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:24:13] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:24:13] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:24:13] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:24:13] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:29:17] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:29:17] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:29:17] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:29:17] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:29:17] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:29:17] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:29:17] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:29:17] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:29:17] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:30:18] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:30:18] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:30:18] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:30:18] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:30:18] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:30:18] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:30:18] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 13:30:18] TalkException(code=20, reason='', parameterMap={})
+[Rabu, 10 - 04 - 2019 | 16:09:10] 'in <string>' requires string as left operand, not list
+[Rabu, 10 - 04 - 2019 | 16:18:07] 'pict_url'
+[Rabu, 10 - 04 - 2019 | 16:18:17] local variable 'anu' referenced before assignment
+[Rabu, 10 - 04 - 2019 | 16:18:31] local variable 'anu' referenced before assignment
+[Rabu, 10 - 04 - 2019 | 17:09:00] 'in <string>' requires string as left operand, not list
